@@ -37,5 +37,4 @@ All content in this repository is intended for educational purposes only. Activi
 🧠 Continuous Learning
 This repository is actively maintained and reflects ongoing improvement in both offensive and defensive cybersecurity skills.
 
-Note: Scope of all Platforms and topics will be updated on learning and experience based whihc will reflext ion sub folders too
-
+Note: The scope of all platforms and topics will be continuously updated based on my ongoing learning and experience, which will also be reflected in the sub-folders.
