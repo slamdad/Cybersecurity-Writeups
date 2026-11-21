@@ -1,7 +1,3 @@
-:::writing{variant=“standard” id=“59302”}
-
-🛡️ Offensive Security Lab
-
 A structured repository documenting hands-on practice in penetration testing, vulnerability research, and CTF challenges across multiple platforms.
 
 ⸻
@@ -25,30 +21,6 @@ The focus is on:
 	•	Miscellaneous CTF challenges
 
 ⸻
-
-🧩 Repository Structure
-
-📁 HTB/
-   ├── Easy/
-   ├── Medium/
-   └── Hard/
-
-📁 THM/
-   ├── Paths/
-   └── Rooms/
-
-📁 VulnHub/
-   └── Machines/
-
-📁 CTF/
-   ├── Web/
-   ├── Crypto/
-   ├── Forensics/
-   └── Reverse/
-
-
-⸻
-
 🔍 Methodology
 
 Each writeup follows a consistent approach:
@@ -70,16 +42,6 @@ Each writeup follows a consistent approach:
 
 ⸻
 
-📈 Progress
-
-Platform	Status
-Hack The Box	Active
-TryHackMe	Active
-VulnHub	Active
-PicoCTF	Active
-
-
-⸻
 
 ⚠️ Disclaimer
 
@@ -93,10 +55,3 @@ Activities are performed on authorized platforms and intentionally vulnerable sy
 This repository is actively maintained and reflects ongoing improvement in offensive security skills and practical cybersecurity knowledge.
 
 ⸻
-
-:::
-
-
-	•	Add badges (HTB rank, THM streak, etc.)
-	•	Add screenshots of machines solved
-	•	Add a “Highlighted Writeups” section (very important for recruiters)
